@@ -61,7 +61,3 @@ Filip Arnaut<sup>1,*</sup>, Sebastian Rauch<sup>2</sup>, Ljiljana Pantović<sup>
 <sup>3</sup> Institute for Philosophy and Social Theory, University of Belgrade, Belgrade, Serbia
 
 <sup>*</sup> Corresponding author
-
-## License
-
-License information will be provided upon confirmation of the repository's data-sharing and reuse conditions.
